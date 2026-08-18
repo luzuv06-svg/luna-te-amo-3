@@ -1,0 +1,183 @@
+[19:57:17] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.3+9-2-24.04.2-Ubuntu; Ubuntu null) on Linux 6.8.0-1052-azure (amd64)
+[19:57:17] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) for Minecraft 26.1.2
+[19:57:17] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:57:18] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[19:57:18] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - Geyser-Spigot (2.11.1-SNAPSHOT), ViaBackwards (5.11.0), ViaVersion (5.11.0), floodgate (2.2.5-SNAPSHOT (b140-8780fa4))
+[19:57:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:57:24] [ServerMain/INFO]: Loaded 1515 recipes
+[19:57:24] [ServerMain/INFO]: Loaded 1617 advancements
+[19:57:24] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[19:57:24] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 377.9ms
+[19:57:25] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[19:57:25] [Server thread/INFO]: Loading properties
+[19:57:25] [Server thread/INFO]: This server is running Paper version 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) (Implementing API version 26.1.2.build.60-stable)
+[19:57:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:57:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:57:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:57:26] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:57:26] [Server thread/INFO]: Default game type: SURVIVAL
+[19:57:26] [Server thread/INFO]: Generating keypair
+[19:57:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:57:27] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:57:27] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[19:57:27] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[19:57:28] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[19:57:28] [Server thread/INFO]: [floodgate] Took 716ms to boot Floodgate
+[19:57:28] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.11.0
+[19:57:28] [Server thread/INFO]: [ViaVersion] ViaVersion 5.11.0 is now loaded. Registering protocol transformers and injecting...
+[19:57:29] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:57:29] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:57:29] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.11.1-SNAPSHOT
+[19:57:30] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[19:57:30] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[19:57:30] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.11.0
+[19:57:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:57:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:57:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:57:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:57:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:57:30] [Server thread/INFO]: Preparing level "world"
+[19:57:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[19:57:30] [Server thread/INFO]: Preparing spawn area: 100%
+[19:57:30] [Server thread/INFO]: Prepared spawn area in 1 ms
+[19:57:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[19:57:30] [Server thread/INFO]: Prepared spawn area in 0 ms
+[19:57:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[19:57:30] [Server thread/INFO]: Preparing spawn area: 100%
+[19:57:30] [Server thread/INFO]: Prepared spawn area in 1 ms
+[19:57:30] [Server thread/INFO]: Done preparing level "world" (0.499s)
+[19:57:30] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[19:57:31] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.11.0
+[19:57:31] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.1-26.1.2 (775)
+[19:57:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.1-SNAPSHOT
+[19:57:32] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.11.0
+[19:57:32] [Server thread/INFO]: [spark] Starting background profiler...
+[19:57:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:57:32] [Server thread/INFO]: [Geyser-Spigot] 
+[19:57:32] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.11.1-b1225 (git-master-5f6d017)
+[19:57:32] [Server thread/INFO]: [Geyser-Spigot] 
+[19:57:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:57:33] [Server thread/INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
+[19:57:33] [Server thread/INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
+[19:57:33] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
+[19:57:35] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
+[19:57:36] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[19:57:36] [Server thread/INFO]: [Geyser-Spigot] Done (3.876s)! Run /geyser help for help!
+[19:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:57:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:57:36] [Server thread/INFO]: Running delayed init tasks
+[19:57:36] [Server thread/INFO]: Done (20.371s)! For help, type "help"
+[19:57:36] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:57:37] [Paper Async Task Handler Thread - 1/WARN]: *** You are running an outdated version of Minecraft, which is 2 release(s) and 14 build(s) behind!
+[19:57:37] [Paper Async Task Handler Thread - 1/WARN]: *** Please update to the latest stable version on https://papermc.io/downloads/paper ***
+[19:57:39] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username lunitaita (2168)
+[19:57:39] [localSession-7-2/INFO]: [Geyser-Spigot] lunitaita (logged in as: lunitaita) has connected to the Java server
+[19:57:41] [Server thread/INFO]: [floodgate] Floodgate player logged in as .lunitaita joined (UUID: 00000000-0000-0000-0009-01faa51bb526)
+[19:57:41] [Server thread/INFO]: .lunitaita joined the game
+[19:57:41] [Server thread/INFO]: .lunitaita[/100.104.165.115:0] logged in with entity id 81 at ([minecraft:overworld]357.5, 63.5625, 549.5)
+[20:02:53] [User Authenticator #0/INFO]: UUID of player w1ck_ is 71e929e7-bbb2-3415-b175-7441a97fc6e6
+[20:02:54] [Server thread/INFO]: w1ck_ joined the game
+[20:02:54] [Server thread/INFO]: w1ck_[/100.80.80.83:60192] logged in with entity id 857 at ([minecraft:overworld]361.43897970802755, 63.0, 551.6387053806843)
+[20:03:45] [Server thread/INFO]: .lunitaita has made the advancement [Acquire Hardware]
+[20:08:43] [Server thread/INFO]: w1ck_ lost connection: Disconnected
+[20:08:43] [Server thread/INFO]: w1ck_ left the game
+[20:08:52] [User Authenticator #1/INFO]: UUID of player w1ck_ is 71e929e7-bbb2-3415-b175-7441a97fc6e6
+[20:08:53] [Server thread/INFO]: w1ck_ joined the game
+[20:08:53] [Server thread/INFO]: w1ck_[/100.80.80.83:60372] logged in with entity id 1706 at ([minecraft:overworld]374.7643300774219, 65.0, 548.1139406030595)
+[20:20:11] [Async Chat Thread - #0/INFO]: [Not Secure] <w1ck_> 364 64 549
+[20:20:53] [User Authenticator #2/INFO]: UUID of player AstralYHD is 8ed63a5a-c602-315b-bcc1-a5a16d53fc3e
+[20:20:55] [Server thread/INFO]: AstralYHD joined the game
+[20:20:55] [Server thread/INFO]: AstralYHD[/100.96.103.87:58463] logged in with entity id 7219 at ([minecraft:overworld]148.5, 64.0, 228.5)
+[20:21:02] [Async Chat Thread - #0/INFO]: [Not Secure] <w1ck_> puto
+[20:21:03] [Async Chat Thread - #0/INFO]: [Not Secure] <AstralYHD> hola amiguitos
+[20:21:05] [Server thread/INFO]: w1ck_ issued server command: /tp .lunitaita
+[20:21:06] [Server thread/INFO]: [w1ck_: Teleported w1ck_ to .lunitaita]
+[20:21:09] [Async Chat Thread - #0/INFO]: [Not Secure] <AstralYHD> que feo no tengo skin
+[20:21:13] [Async Chat Thread - #0/INFO]: [Not Secure] <AstralYHD> me siento pobre
+[20:21:19] [Server thread/INFO]: w1ck_ issued server command: /op AstralYHD
+[20:21:19] [Server thread/INFO]: [w1ck_: Made AstralYHD a server operator]
+[20:21:25] [Async Chat Thread - #0/INFO]: [Not Secure] <w1ck_> labura esclavo
+[20:22:29] [Async Chat Thread - #2/INFO]: [Not Secure] <w1ck_> hola hermano
+[20:22:33] [Async Chat Thread - #2/INFO]: [Not Secure] <AstralYHD> oh no un negro
+[20:22:46] [Async Chat Thread - #2/INFO]: [Not Secure] <AstralYHD> bue ya con diamante iba
+[20:22:53] [Async Chat Thread - #2/INFO]: [Not Secure] <w1ck_> el que sabe sabe
+[20:23:01] [Async Chat Thread - #2/INFO]: [Not Secure] <AstralYHD> aldeanos o dupeo?
+[20:23:16] [Async Chat Thread - #2/INFO]: [Not Secure] <AstralYHD> queonda
+[20:23:20] [Async Chat Thread - #2/INFO]: [Not Secure] <w1ck_> minando amigo
+[20:23:31] [Async Chat Thread - #2/INFO]: [Not Secure] <AstralYHD> cheto
+[20:23:37] [Async Chat Thread - #2/INFO]: [Not Secure] <AstralYHD> pasen lugar para dormir
+[20:23:46] [Async Chat Thread - #2/INFO]: [Not Secure] <w1ck_> seguila
+[20:25:00] [Async Chat Thread - #4/INFO]: [Not Secure] <AstralYHD> cheto
+[20:25:05] [Async Chat Thread - #4/INFO]: [Not Secure] <AstralYHD> voy a esclavizar a los aldeanos
+[20:25:24] [Async Chat Thread - #4/INFO]: [Not Secure] <AstralYHD> TUTI
+[20:25:38] [Async Chat Thread - #4/INFO]: [Not Secure] <.lunitaita> tuti te amo
+[20:25:44] [Async Chat Thread - #4/INFO]: [Not Secure] <AstralYHD> hasta que hora estuvieron anoche
+[20:26:20] [Async Chat Thread - #4/INFO]: [Not Secure] <w1ck_> como hasta las 5
+[20:26:24] [Async Chat Thread - #4/INFO]: [Not Secure] <AstralYHD> waos
+[20:26:31] [Async Chat Thread - #4/INFO]: [Not Secure] <w1ck_> pero jugamos2 horas nomas
+[20:26:34] [Async Chat Thread - #4/INFO]: [Not Secure] <w1ck_> de chill..
+[20:26:38] [Async Chat Thread - #4/INFO]: [Not Secure] <AstralYHD> ya
+[20:26:47] [Async Chat Thread - #4/INFO]: [Not Secure] <AstralYHD> "de chill"
+[20:28:06] [Async Chat Thread - #6/INFO]: [Not Secure] <AstralYHD> uh estamos en java
+[20:28:12] [Async Chat Thread - #6/INFO]: [Not Secure] <AstralYHD> puedo hacer granjas masivas de lag
+[20:28:25] [Async Chat Thread - #6/INFO]: [Not Secure] <w1ck_> hacelas amigo
+[20:28:28] [Async Chat Thread - #6/INFO]: [Not Secure] <AstralYHD> de unaaa
+[20:28:33] [Async Chat Thread - #6/INFO]: [Not Secure] <AstralYHD> esto esta siempre abierto?
+[20:28:39] [Async Chat Thread - #6/INFO]: [Not Secure] <w1ck_> no pancho
+[20:28:42] [Async Chat Thread - #6/INFO]: [Not Secure] <AstralYHD> ah dale
+[20:29:22] [Async Chat Thread - #6/INFO]: [Not Secure] <AstralYHD> ya vengo me voy a hacer una hamborguesa de carne
+[20:30:18] [Server thread/INFO]: w1ck_ issued server command: /tp .lunitaita AstralYHD
+[20:30:18] [Server thread/INFO]: [w1ck_: Teleported .lunitaita to AstralYHD]
+[20:30:23] [Server thread/INFO]: w1ck_ issued server command: /tp .lunitaita w1ck_
+[20:30:23] [Server thread/INFO]: [w1ck_: Teleported .lunitaita to w1ck_]
+[20:33:58] [Server thread/INFO]: .lunitaita has made the advancement [Monster Hunter]
+[20:34:45] [Server thread/INFO]: w1ck_ issued server command: /tp .lunitaita
+[20:34:45] [Server thread/INFO]: [w1ck_: Teleported w1ck_ to .lunitaita]
+[20:35:09] [Server thread/INFO]: w1ck_ issued server command: /tp .lunitaita
+[20:35:09] [Server thread/INFO]: [w1ck_: Teleported w1ck_ to .lunitaita]
+[20:36:31] [Async Chat Thread - #8/INFO]: [Not Secure] <.lunitaita> amigo ya t comiste la carne??
+[20:36:36] [Async Chat Thread - #8/INFO]: [Not Secure] <.lunitaita> goloso
+[20:37:13] [Async Chat Thread - #8/INFO]: [Not Secure] <AstralYHD> la de Luciano? todavia no
+[20:37:18] [Async Chat Thread - #8/INFO]: [Not Secure] <w1ck_> QUE
+[20:37:22] [Async Chat Thread - #8/INFO]: [Not Secure] <AstralYHD> so
+[20:43:03] [Server thread/INFO]: .lunitaita has made the advancement [Not Today, Thank You]
+[20:43:34] [Server thread/INFO]: w1ck_ has made the advancement [We Need to Go Deeper]
+[20:45:48] [Server thread/INFO]: w1ck_ issued server command: /tp 364 64 549
+[20:45:48] [Server thread/INFO]: [w1ck_: Teleported w1ck_ to 364.500000, 64.000000, 549.500000]
+[20:45:54] [Server thread/INFO]: w1ck_ issued server command: /tp .lunitaita 364 64 549
+[20:45:54] [Server thread/INFO]: [w1ck_: Teleported .lunitaita to 364.500000, 64.000000, 549.500000]
+[20:45:59] [Async Chat Thread - #10/INFO]: [Not Secure] <AstralYHD> trampositos
+[20:46:14] [Async Chat Thread - #10/INFO]: [Not Secure] <w1ck_> si amigo ya voy a caminar 3000 bloques.
+[20:46:51] [Server thread/INFO]: w1ck_ issued server command: /tp 364 64 549
+[20:46:51] [Server thread/INFO]: [w1ck_: Teleported w1ck_ to 364.500000, 64.000000, 549.500000]
+[20:47:17] [Async Chat Thread - #12/INFO]: [Not Secure] <AstralYHD> van a haceer algo con estos aldeanos?
+[20:47:29] [Async Chat Thread - #12/INFO]: [Not Secure] <w1ck_> despues chaval
+[20:47:42] [Async Chat Thread - #12/INFO]: [Not Secure] <AstralYHD> oka
+[20:47:55] [Async Chat Thread - #12/INFO]: [Not Secure] <.lunitaita> socialismo
+[20:48:25] [Async Chat Thread - #12/INFO]: [Not Secure] <AstralYHD> fasismo
+[20:48:26] [Async Chat Thread - #12/INFO]: [Not Secure] <AstralYHD> o como era
+[20:49:13] [Server thread/INFO]: AstralYHD has made the advancement [Monster Hunter]
+[20:52:37] [Async Chat Thread - #14/INFO]: [Not Secure] <AstralYHD> si me ven afk dejenme, estoy haciendo milangas
+[20:52:41] [Async Chat Thread - #14/INFO]: [Not Secure] <AstralYHD> pero son al horno puedo dejarlas desatendidas
+[20:53:24] [Async Chat Thread - #14/INFO]: [Not Secure] <w1ck_> OYE HERMANO
+[20:53:26] [Async Chat Thread - #14/INFO]: [Not Secure] <w1ck_> NOS VAMOS
+[20:53:31] [Async Chat Thread - #14/INFO]: [Not Secure] <AstralYHD> VAYANSE
+[20:53:34] [Async Chat Thread - #14/INFO]: [Not Secure] <w1ck_> APAGO EL SERVER CAGATE.
+[20:53:35] [Async Chat Thread - #14/INFO]: [Not Secure] <AstralYHD> yo me quedo viciando
+[20:53:36] [Async Chat Thread - #14/INFO]: [Not Secure] <w1ck_> DESPUES JUGAMOS
+[20:53:37] [Async Chat Thread - #14/INFO]: [Not Secure] <AstralYHD> PUTO
+[20:53:40] [Async Chat Thread - #14/INFO]: [Not Secure] <w1ck_> AH QUEDATE
+[20:53:41] [Async Chat Thread - #14/INFO]: [Not Secure] <w1ck_> OK
+[20:53:42] [Async Chat Thread - #14/INFO]: [Not Secure] <.lunitaita> chau amigo me voy a hacer actividades troskas
+[20:53:47] [Async Chat Thread - #14/INFO]: [Not Secure] <AstralYHD> bue
+[20:53:48] [Async Chat Thread - #14/INFO]: [Not Secure] <AstralYHD> nos vemos
+[20:53:49] [Async Chat Thread - #14/INFO]: [Not Secure] <w1ck_> cuando dejes d jugar avisame
+[20:53:52] [Async Chat Thread - #14/INFO]: [Not Secure] <w1ck_> asi lo apago
+[20:53:54] [Async Chat Thread - #15/INFO]: [Not Secure] <AstralYHD> dale
+[20:53:59] [Async Chat Thread - #15/INFO]: [Not Secure] <w1ck_> que son horas limitadas viste..
